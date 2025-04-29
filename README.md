@@ -29,4 +29,4 @@ Run Instructions:
   - Follow Prompts to enter the name of the input file (e.g., sample.txt) and the output HTML file path (e.g., output.html)
 
 # License
-This project is from the CSE 2221 course at The Ohio State University.
+This project is from the CSE 2231 course at The Ohio State University.
